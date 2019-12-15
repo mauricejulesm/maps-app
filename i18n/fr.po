@@ -1,15 +1,15 @@
 # Translators:
-# Austin McGee <austin@dhis2.org>, 2019
 # mrwine <matthieu@pinard.no>, 2019
 # Bram Piot <bram.piot@gmail.com>, 2019
 # Viktor Varland <viktor@dhis2.org>, 2019
+# Austin McGee <austin@dhis2.org>, 2019
 # phil_dhis2, 2019
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
 "POT-Creation-Date: 2019-10-25T12:59:42.306Z\n"
-"PO-Revision-Date: 2019-06-25 18:35+0000\n"
+"PO-Revision-Date: 2019-11-26 23:27+0000\n"
 "Last-Translator: phil_dhis2, 2019\n"
 "Language-Team: French (https://www.transifex.com/hisp-uio/teams/100509/fr/)\n"
 "MIME-Version: 1.0\n"
@@ -46,10 +46,10 @@ msgid "Data element"
 msgstr "Élément de données"
 
 msgid "Totals"
-msgstr "Totaux "
+msgstr "Totaux"
 
 msgid "Details"
-msgstr "Détails"
+msgstr "Details"
 
 msgid "Yes"
 msgstr "Oui"
@@ -240,7 +240,7 @@ msgid "Select period when tracked entities were last updated"
 msgstr ""
 
 msgid "relationships"
-msgstr "Relation"
+msgstr "Relations"
 
 msgid "Program status"
 msgstr ""
@@ -266,7 +266,7 @@ msgid "Selection mode"
 msgstr "Sélectionner le mode"
 
 msgid "Tracked entities"
-msgstr "Entités suiviées "
+msgstr "Entités suivies "
 
 msgid "Tracked entity style"
 msgstr ""
