@@ -9,15 +9,15 @@ msgstr ""
 "POT-Creation-Date: 2020-04-23T09:40:17.596Z\n"
 "PO-Revision-Date: 2019-11-26 23:27+0000\n"
 "Last-Translator: Viktor Varland <viktor@dhis2.org>, 2020\n"
-"Language-Team: Ukrainian (https://www.transifex.com/hisp-uio/teams/100509/uk/)\n"
+"Language-Team: Tetum (Tetun) (https://www.transifex.com/hisp-uio/teams/100509/tet/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: uk\n"
-"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+"Language: tet\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "Maps"
-msgstr "Мапи"
+msgstr ""
 
 msgid "Classification"
 msgstr ""
@@ -26,7 +26,7 @@ msgid "Classes"
 msgstr ""
 
 msgid "Legend set"
-msgstr "Набір умовних позначень"
+msgstr "Pakote lejendas"
 
 msgid "Automatic"
 msgstr ""
@@ -35,22 +35,22 @@ msgid "Predefined"
 msgstr ""
 
 msgid "Data element group"
-msgstr "Група елементів даних"
+msgstr ""
 
 msgid "Data element operand"
 msgstr ""
 
 msgid "Data element"
-msgstr "Елемент даних"
+msgstr "Elementu dadus"
 
 msgid "Totals"
-msgstr "Підсумки"
+msgstr "Totais"
 
 msgid "Details"
-msgstr "Деталі"
+msgstr "Detalles"
 
 msgid "Yes"
-msgstr "Так"
+msgstr "Sim"
 
 msgid "Event location"
 msgstr ""
@@ -59,7 +59,7 @@ msgid "Coordinate field"
 msgstr ""
 
 msgid "None"
-msgstr "Жодного"
+msgstr "Nein ida"
 
 msgid "Data item"
 msgstr ""
@@ -71,19 +71,19 @@ msgid "Style by data element"
 msgstr ""
 
 msgid "Data set"
-msgstr "Набір даних"
+msgstr "Pakote dadus"
 
 msgid "Index"
 msgstr ""
 
 msgid "Value"
-msgstr "Значення"
+msgstr "Valor"
 
 msgid "Legend"
-msgstr "Умовні позначення"
+msgstr ""
 
 msgid "Range"
-msgstr "Проміжок"
+msgstr ""
 
 msgid "Level"
 msgstr ""
@@ -95,7 +95,7 @@ msgid "Id"
 msgstr ""
 
 msgid "Type"
-msgstr "Тип"
+msgstr "Tipu"
 
 msgid "Color"
 msgstr ""
@@ -110,7 +110,7 @@ msgid "Dimension"
 msgstr ""
 
 msgid "Download"
-msgstr "Завантажити"
+msgstr "Hatun"
 
 msgid "Download map"
 msgstr ""
@@ -126,25 +126,25 @@ msgid ""
 msgstr ""
 
 msgid "Cancel"
-msgstr "Скасувати"
+msgstr "Kansela"
 
 msgid "Close"
-msgstr "Закрити"
+msgstr "Taka"
 
 msgid "Legend position"
 msgstr ""
 
 msgid "Year"
-msgstr "Рік"
+msgstr "Tinan"
 
 msgid "Period"
-msgstr "Період"
+msgstr "Períodu"
 
 msgid "Organisation units"
-msgstr "Організаційні підрозділи"
+msgstr "Unidade organizasional"
 
 msgid "Style"
-msgstr "Стиль"
+msgstr "Estilu"
 
 msgid "Labels"
 msgstr ""
@@ -213,10 +213,10 @@ msgid ""
 msgstr ""
 
 msgid "Min"
-msgstr "Мін"
+msgstr "Min"
 
 msgid "Max"
-msgstr "Макс"
+msgstr "Max"
 
 msgid "Steps"
 msgstr ""
@@ -240,16 +240,16 @@ msgid "Org units"
 msgstr ""
 
 msgid "Filter"
-msgstr "Фільтр"
+msgstr "Filtru"
 
 msgid "Start date"
-msgstr "Початкова дата"
+msgstr "Data hahú"
 
 msgid "End date"
-msgstr "Кінцева дата"
+msgstr "Data remata"
 
 msgid "Events"
-msgstr "Події"
+msgstr ""
 
 msgid "Group events"
 msgstr ""
@@ -310,7 +310,7 @@ msgid "relationships"
 msgstr ""
 
 msgid "Program status"
-msgstr "Статус програми"
+msgstr ""
 
 msgid "Follow up"
 msgstr ""
@@ -357,7 +357,7 @@ msgid "Line Color"
 msgstr ""
 
 msgid "Aggregation type"
-msgstr "Тип агрегації"
+msgstr "Tipu agregasaun"
 
 msgid "Low size"
 msgstr ""
@@ -390,16 +390,16 @@ msgid "Period is required"
 msgstr ""
 
 msgid "Indicator"
-msgstr "Показник"
+msgstr "Indikador"
 
 msgid "Reporting rates"
-msgstr "Частота повідомлень"
+msgstr "Taxas relatóriu"
 
 msgid "Event data items"
-msgstr "Складові дані події"
+msgstr ""
 
 msgid "Program indicators"
-msgstr "Програмні показники"
+msgstr ""
 
 msgid "Item type"
 msgstr ""
@@ -411,7 +411,7 @@ msgid "No relationship types were found for tracked entity type {{type}}"
 msgstr ""
 
 msgid "Relationship type"
-msgstr "Тип зв'язку"
+msgstr ""
 
 msgid "An error occurred in the DHIS2 Maps application."
 msgstr ""
@@ -435,10 +435,10 @@ msgid "Filtering is available after selecting a program stage."
 msgstr ""
 
 msgid "Operator"
-msgstr "Оператор"
+msgstr "Operador"
 
 msgid "Date"
-msgstr "Дата"
+msgstr "Data"
 
 msgid "one of"
 msgstr ""
@@ -456,19 +456,19 @@ msgid "Remove filter"
 msgstr ""
 
 msgid "Indicator group"
-msgstr "Група показників"
+msgstr ""
 
 msgid "Interpretations"
-msgstr "Інтерпретації"
+msgstr "Interpretasoens"
 
 msgid "Basemap"
 msgstr ""
 
 msgid "Collapse"
-msgstr "Згорнути"
+msgstr ""
 
 msgid "Expand"
-msgstr "Розгорнути"
+msgstr ""
 
 msgid "Download Layer Data"
 msgstr ""
@@ -500,10 +500,10 @@ msgid "Split view can not be combined with other layer types."
 msgstr ""
 
 msgid "Filters"
-msgstr ""
+msgstr "Filtrus"
 
 msgid "Edit"
-msgstr "Редагувати"
+msgstr "Edita"
 
 msgid "Toggle visibility"
 msgstr ""
@@ -515,13 +515,13 @@ msgid "More actions"
 msgstr ""
 
 msgid "Data table"
-msgstr ""
+msgstr "Tabela dadus"
 
 msgid "Open as chart"
 msgstr ""
 
 msgid "Download data"
-msgstr "Завантажити дані"
+msgstr ""
 
 msgid "Edit layer"
 msgstr ""
@@ -551,10 +551,10 @@ msgid "Relocate"
 msgstr ""
 
 msgid "Not set"
-msgstr "Не встановлено"
+msgstr "Seidauk define"
 
 msgid "Organisation unit"
-msgstr "Організаційний підрозділ"
+msgstr "Unidade organizasional"
 
 msgid "Event time"
 msgstr ""
@@ -563,16 +563,16 @@ msgid "Groups"
 msgstr ""
 
 msgid "Longitude"
-msgstr "Довгота"
+msgstr ""
 
 msgid "Latitude"
-msgstr "Широта"
+msgstr ""
 
 msgid "Viewing interpretation from {{interpretationDate}}"
 msgstr ""
 
 msgid "Last updated"
-msgstr "Останнє оновлення"
+msgstr "Atualizasaun ikus"
 
 msgid "acres"
 msgstr ""
@@ -593,7 +593,7 @@ msgid "Click where you want to start the measurement"
 msgstr ""
 
 msgid "Delete"
-msgstr "Видалити"
+msgstr "Soe"
 
 msgid "Distance"
 msgstr ""
@@ -626,10 +626,10 @@ msgid "Search for place or address"
 msgstr ""
 
 msgid "Zoom in"
-msgstr "Збільшити"
+msgstr ""
 
 msgid "Zoom out"
-msgstr "Зменшити"
+msgstr ""
 
 msgid "Zoom to content"
 msgstr ""
@@ -650,10 +650,10 @@ msgid "Proceed"
 msgstr ""
 
 msgid "Options"
-msgstr "Опції"
+msgstr "Opsoens"
 
 msgid "Code"
-msgstr "Код"
+msgstr "Kódigu"
 
 msgid "No data found for this period."
 msgstr ""
@@ -709,10 +709,10 @@ msgid "Previous year"
 msgstr ""
 
 msgid "Next year"
-msgstr "Наступний рік"
+msgstr "Tinan oin"
 
 msgid "Relative"
-msgstr "Родич"
+msgstr "Relativu"
 
 msgid "Period type"
 msgstr ""
@@ -739,13 +739,13 @@ msgid "Remove other layers to enable split map views."
 msgstr ""
 
 msgid "Program indicator"
-msgstr "Program indicator"
+msgstr ""
 
 msgid "No program"
 msgstr ""
 
 msgid "Program"
-msgstr "Програма"
+msgstr ""
 
 msgid "Stage"
 msgstr ""
@@ -754,22 +754,22 @@ msgid "Tracked Entity Type"
 msgstr ""
 
 msgid "By data element"
-msgstr "За елементом даних"
+msgstr "Tuir elementu dadus"
 
 msgid "Count"
-msgstr "Підрахунок"
+msgstr "Konta"
 
 msgid "Average"
-msgstr "Середнє"
+msgstr "Média"
 
 msgid "Sum"
-msgstr "Сума"
+msgstr "Soma"
 
 msgid "Standard deviation"
-msgstr "Стандартне відхилення"
+msgstr "Dezviu padraun"
 
 msgid "Variance"
-msgstr "Коливання (варіативність)"
+msgstr "Variasaun"
 
 msgid "Equal intervals"
 msgstr ""
@@ -778,139 +778,139 @@ msgid "Equal counts"
 msgstr ""
 
 msgid "Daily"
-msgstr "Щодня"
+msgstr "Diáriu"
 
 msgid "Weekly"
-msgstr "Щотижня"
+msgstr "Semanal"
 
 msgid "Monthly"
-msgstr "Щомісячно"
+msgstr "Mensal"
 
 msgid "Bi-monthly)"
 msgstr ""
 
 msgid "Quarterly"
-msgstr "Щоквартально"
+msgstr "Trimestral"
 
 msgid "Six-monthly"
-msgstr "Раз на півріччя"
+msgstr "Semestral"
 
 msgid "Six-monthly April"
-msgstr "Раз на півріччя квітень"
+msgstr "Abril semestral"
 
 msgid "Yearly"
-msgstr "Щорічно"
+msgstr "Anual"
 
 msgid "Financial year (Start October)"
-msgstr "Фінансовий рік (Початок у жовтні)"
+msgstr "Outubru finanseiru"
 
 msgid "Financial year (Start July)"
-msgstr "Фінансовий рік (Початок у липні)"
+msgstr "Jullu finanseiru"
 
 msgid "Financial year (Start April)"
-msgstr "Фінансовий рік (Початок у квітні)"
+msgstr "Abril finanseiru"
 
 msgid "Today"
-msgstr "Сьогодні"
+msgstr ""
 
 msgid "Yesterday"
-msgstr "Вчора"
+msgstr ""
 
 msgid "Last 3 days"
-msgstr "Минулі 3 дні"
+msgstr ""
 
 msgid "Last 7 days"
-msgstr "Минулі 7 днів"
+msgstr ""
 
 msgid "Last 14 days"
-msgstr "Минулі 14 днів"
+msgstr ""
 
 msgid "This week"
-msgstr "Поточний тиждень"
+msgstr ""
 
 msgid "Last week"
-msgstr "Минулий тиждень"
+msgstr "Semana kotuk"
 
 msgid "Last 4 weeks"
-msgstr "Останні 4 тижні"
+msgstr "Semana 4 ikus"
 
 msgid "Last 12 weeks"
-msgstr "Останні 12 тижнів"
+msgstr "Semana 12 ikus"
 
 msgid "Last 52 weeks"
-msgstr "Останні 52 тижні"
+msgstr "Semana 52 ikus"
 
 msgid "Weeks this year"
-msgstr "Тижні поточного року"
+msgstr ""
 
 msgid "This month"
-msgstr "Поточний місяць"
+msgstr ""
 
 msgid "Last month"
-msgstr "Останній місяць"
+msgstr "Fulan kotuk"
 
 msgid "Last 3 months"
-msgstr "Останні 3 місяці"
+msgstr "Fulan 3 ikus"
 
 msgid "Last 6 months"
-msgstr "Останні 6 місяців"
+msgstr "Fulan 6 ikus"
 
 msgid "Last 12 months"
-msgstr "Останні 12 місяців"
+msgstr "Fulan 12 ikus"
 
 msgid "Months this year"
-msgstr "Місяців поточного року"
+msgstr "Fulan sira tinan ida ne'e"
 
 msgid "This bi-month"
-msgstr "Поточний двомісячний період"
+msgstr ""
 
 msgid "Last bi-month"
-msgstr "Останні два місяці"
+msgstr "Bimensal kotuk"
 
 msgid "Last 6 bi-months"
-msgstr "Останні 6 двомісячних періоди"
+msgstr "Bimensal 6 ikus liu"
 
 msgid "Bi-months this year"
-msgstr "Щодва місяці поточного року"
+msgstr ""
 
 msgid "This quarter"
-msgstr "Поточний квартал"
+msgstr ""
 
 msgid "Last quarter"
-msgstr "Минулий квартал"
+msgstr "Trimestre kotuk"
 
 msgid "Last 4 quarters"
-msgstr "Останні 4 квартали"
+msgstr "Trimestre 4 ikus liu"
 
 msgid "Quarters this year"
-msgstr "Квартали поточного року"
+msgstr "Trimestres sira tinan ida ne'e"
 
 msgid "This six-month"
-msgstr "Поточне півріччя"
+msgstr ""
 
 msgid "Last six-month"
-msgstr "Останнє півріччя"
+msgstr "Fulan-nén ikus"
 
 msgid "Last 2 six-months"
-msgstr "Останні 2 півріччя"
+msgstr "Fulan-nén 2 ikus"
 
 msgid "This year"
-msgstr "Поточний рік"
+msgstr "Tina ida ne'e"
 
 msgid "Last year"
-msgstr "Минулий рік"
+msgstr "Tinan kotuk"
 
 msgid "Last 5 years"
-msgstr "Останні 5 років"
+msgstr "Tinan 5 kotuk"
 
 msgid "This financial year"
-msgstr "Поточний фінансовий рік"
+msgstr "Tinan finanseiru ida ne'e"
 
 msgid "Last financial year"
-msgstr "Минулий фінансовий рік"
+msgstr "Tinan finanseiru kotuk"
 
 msgid "Last 5 financial years"
-msgstr "Останні 5 фінансових років"
+msgstr "Tinan finanseiru 5 ikus"
 
 msgid ""
 "To show this layer you must first sign up for the Earth Engine service at "
@@ -918,7 +918,7 @@ msgid ""
 msgstr ""
 
 msgid "Error"
-msgstr "Помилка"
+msgstr "Erru"
 
 msgid "A connection to Google Earth Engine could not be established."
 msgstr ""
@@ -1043,7 +1043,7 @@ msgid "Unclassified"
 msgstr ""
 
 msgid "Access denied"
-msgstr "У доступі відмовлено"
+msgstr "Asesu negadu"
 
 msgid "user is not allowed to read layer data"
 msgstr ""
@@ -1055,10 +1055,10 @@ msgid "an unknown error occurred while reading layer data"
 msgstr ""
 
 msgid "Event"
-msgstr "Подія"
+msgstr ""
 
 msgid "No data found"
-msgstr "Даних не знайдено"
+msgstr ""
 
 msgid "Facilities"
 msgstr ""
@@ -1073,7 +1073,7 @@ msgid "No coordinates found"
 msgstr ""
 
 msgid "Tracked entity"
-msgstr "Відстежуване явище"
+msgstr ""
 
 msgid "No tracked entities found"
 msgstr ""
@@ -1097,7 +1097,7 @@ msgid "false"
 msgstr ""
 
 msgid "No"
-msgstr "Ні"
+msgstr "Lae"
 
 msgid "Map could not be created"
 msgstr ""
