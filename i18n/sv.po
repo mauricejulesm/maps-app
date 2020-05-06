@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
-"POT-Creation-Date: 2020-04-23T09:40:17.596Z\n"
-"PO-Revision-Date: 2019-06-25 18:35+0000\n"
+"POT-Creation-Date: 2020-05-05T09:18:51.686Z\n"
+"PO-Revision-Date: 2019-11-26 23:27+0000\n"
 "Last-Translator: Viktor Varland <viktor@dhis2.org>, 2020\n"
 "Language-Team: Swedish (https://www.transifex.com/hisp-uio/teams/100509/sv/)\n"
 "MIME-Version: 1.0\n"
@@ -127,7 +127,7 @@ msgid ""
 msgstr ""
 
 msgid "Cancel"
-msgstr "Annullera"
+msgstr "Avbryt"
 
 msgid "Close"
 msgstr "Stänga"
@@ -292,7 +292,7 @@ msgstr ""
 msgid "Edit {{name}} layer"
 msgstr ""
 
-msgid "Add {{name}} layer"
+msgid "Add new {{name}} layer"
 msgstr ""
 
 msgid "Update layer"
@@ -394,7 +394,7 @@ msgid "Indicator"
 msgstr "Indikator"
 
 msgid "Reporting rates"
-msgstr "rapporterings~~POS=TRUNC priser"
+msgstr "rapporterings~~POS\\=TRUNC priser"
 
 msgid "Event data items"
 msgstr "Händelsedataposter"
@@ -491,6 +491,9 @@ msgstr ""
 msgid "Use human-readable keys"
 msgstr ""
 
+msgid "External layer"
+msgstr "Extern skikt"
+
 msgid "Loading layer"
 msgstr ""
 
@@ -555,7 +558,7 @@ msgid "Not set"
 msgstr "Inte inställd"
 
 msgid "Organisation unit"
-msgstr "Organisation enhet"
+msgstr "Organisationsenhet"
 
 msgid "Event time"
 msgstr ""

@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
-"POT-Creation-Date: 2020-04-23T09:40:17.596Z\n"
-"PO-Revision-Date: 2019-06-25 18:35+0000\n"
+"POT-Creation-Date: 2020-05-05T09:18:51.686Z\n"
+"PO-Revision-Date: 2019-11-26 23:27+0000\n"
 "Last-Translator: Hamza Assada <7amza.it@gmail.com>, 2020\n"
 "Language-Team: Arabic (https://www.transifex.com/hisp-uio/teams/100509/ar/)\n"
 "MIME-Version: 1.0\n"
@@ -151,7 +151,7 @@ msgid "Labels"
 msgstr "التسميات"
 
 msgid "Point radius"
-msgstr "نصف قطر النقطة"
+msgstr "قطر النقطة"
 
 msgid "No organisation units are selected"
 msgstr ""
@@ -259,7 +259,7 @@ msgid "View all events"
 msgstr "عرض كافة الأحداث"
 
 msgid "Radius"
-msgstr "نصف القطر"
+msgstr "القطر"
 
 msgid "Buffer"
 msgstr ""
@@ -292,7 +292,7 @@ msgstr ""
 msgid "Edit {{name}} layer"
 msgstr ""
 
-msgid "Add {{name}} layer"
+msgid "Add new {{name}} layer"
 msgstr ""
 
 msgid "Update layer"
@@ -448,7 +448,7 @@ msgid "contains"
 msgstr ""
 
 msgid "is"
-msgstr "confirm_delete_relationship_type=هل تريد بالتأكيد حذف نوع العلاقة؟"
+msgstr "confirm_delete_relationship_type\\=هل تريد بالتأكيد حذف نوع العلاقة؟"
 
 msgid "is not"
 msgstr ""
@@ -489,6 +489,9 @@ msgid "ID Format"
 msgstr ""
 
 msgid "Use human-readable keys"
+msgstr ""
+
+msgid "External layer"
 msgstr ""
 
 msgid "Loading layer"

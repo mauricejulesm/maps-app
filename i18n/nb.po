@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
-"POT-Creation-Date: 2020-04-23T09:40:17.596Z\n"
-"PO-Revision-Date: 2019-06-25 18:35+0000\n"
+"POT-Creation-Date: 2020-05-05T09:18:51.686Z\n"
+"PO-Revision-Date: 2019-11-26 23:27+0000\n"
 "Last-Translator: Karoline Tufte Lien <karoline@dhis2.org>, 2020\n"
 "Language-Team: Norwegian Bokmål (https://www.transifex.com/hisp-uio/teams/100509/nb/)\n"
 "MIME-Version: 1.0\n"
@@ -170,10 +170,10 @@ msgid "Select year"
 msgstr "Velg år"
 
 msgid "Min people"
-msgstr "Min befolkning"
+msgstr "Min personer"
 
 msgid "Max people"
-msgstr "Maks befolkning"
+msgstr "Maks personer"
 
 msgid ""
 "Elevation above sea-level. You can adjust the min and max values so it "
@@ -305,8 +305,8 @@ msgstr "Gruppesett er påkrevd"
 msgid "Edit {{name}} layer"
 msgstr "Rediger {{name}}-lag"
 
-msgid "Add {{name}} layer"
-msgstr "Legg til {{name}}-lag"
+msgid "Add new {{name}} layer"
+msgstr ""
 
 msgid "Update layer"
 msgstr "Oppdater lag"
@@ -507,6 +507,9 @@ msgstr "ID-format"
 
 msgid "Use human-readable keys"
 msgstr "Bruk menneskelige lesbare nøkler"
+
+msgid "External layer"
+msgstr ""
 
 msgid "Loading layer"
 msgstr "Laster lag"
