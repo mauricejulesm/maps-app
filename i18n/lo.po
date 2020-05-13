@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
-"POT-Creation-Date: 2020-05-05T09:18:51.686Z\n"
-"PO-Revision-Date: 2019-06-25 18:35+0000\n"
+"POT-Creation-Date: 2020-05-12T20:48:33.602Z\n"
+"PO-Revision-Date: 2019-11-26 23:27+0000\n"
 "Last-Translator: Viktor Varland <viktor@dhis2.org>, 2020\n"
 "Language-Team: Lao (https://www.transifex.com/hisp-uio/teams/100509/lo/)\n"
 "MIME-Version: 1.0\n"
@@ -33,6 +33,9 @@ msgstr "ອັດຕະໂນມັດ"
 
 msgid "Predefined"
 msgstr "ແບບເລືອກ"
+
+msgid "Size"
+msgstr ""
 
 msgid "Data element group"
 msgstr "ກຸ່ມຂອລອົງປະກອບຂໍ້ມູນ"
@@ -71,7 +74,7 @@ msgid "Style by data element"
 msgstr ""
 
 msgid "Data set"
-msgstr "ແບບຟອມ"
+msgstr "Data set\\:"
 
 msgid "Index"
 msgstr ""
@@ -138,13 +141,13 @@ msgid "Year"
 msgstr "ປີ"
 
 msgid "Period"
-msgstr "ໄລຍະ ເວລາ"
+msgstr "ຊ່ວງເວລາ"
 
 msgid "Organisation units"
 msgstr "ໂຄງຮ່າງການຈັດຕັ້ງ"
 
 msgid "Style"
-msgstr "ແບບ"
+msgstr "ລັກສະນະ"
 
 msgid "Labels"
 msgstr ""
@@ -286,6 +289,24 @@ msgid ""
 msgstr ""
 
 msgid "Group set is required"
+msgstr ""
+
+msgid "event"
+msgstr ""
+
+msgid "tracked entity"
+msgstr ""
+
+msgid "facility"
+msgstr ""
+
+msgid "thematic"
+msgstr ""
+
+msgid "boundary"
+msgstr ""
+
+msgid "Earth Engine"
 msgstr ""
 
 msgid "Edit {{name}} layer"
@@ -435,7 +456,7 @@ msgid "Filtering is available after selecting a program stage."
 msgstr ""
 
 msgid "Operator"
-msgstr "Operator"
+msgstr "ເຄື່ອງໝາຍເລກ"
 
 msgid "Date"
 msgstr "ວັນທີ່"
@@ -460,6 +481,9 @@ msgstr "ກຸ່ມຂອງຕົວຊີ້ວັດ"
 
 msgid "Interpretations"
 msgstr "ການແປຂໍ້ມູນ"
+
+msgid "External basemap"
+msgstr ""
 
 msgid "Basemap"
 msgstr ""
@@ -605,6 +629,9 @@ msgid "Enter fullscreen"
 msgstr ""
 
 msgid "Exit fullscreen"
+msgstr ""
+
+msgid "Finish measurement"
 msgstr ""
 
 msgid "ha"
@@ -773,6 +800,30 @@ msgstr ""
 
 msgid "Variance"
 msgstr "ຄວາມແຕກຕ່າງ"
+
+msgid "OSM Light"
+msgstr ""
+
+msgid "OSM Detailed"
+msgstr ""
+
+msgid "Google Streets"
+msgstr ""
+
+msgid "Google Hybrid"
+msgstr ""
+
+msgid "Bing Road"
+msgstr ""
+
+msgid "Bing Dark"
+msgstr ""
+
+msgid "Bing Aerial"
+msgstr ""
+
+msgid "Bing Aerial Labels"
+msgstr ""
 
 msgid "Equal intervals"
 msgstr ""
@@ -1061,7 +1112,7 @@ msgid "Event"
 msgstr "ເຫດການ"
 
 msgid "No data found"
-msgstr "No data found"
+msgstr "ບໍ່ພົບຂໍ້ມູນ"
 
 msgid "Facilities"
 msgstr ""
