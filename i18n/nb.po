@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
 "POT-Creation-Date: 2020-05-12T20:48:33.602Z\n"
-"PO-Revision-Date: 2019-06-25 18:35+0000\n"
+"PO-Revision-Date: 2019-11-26 23:27+0000\n"
 "Last-Translator: Karoline Tufte Lien <karoline@dhis2.org>, 2020\n"
 "Language-Team: Norwegian Bokmål (https://www.transifex.com/hisp-uio/teams/100509/nb/)\n"
 "MIME-Version: 1.0\n"
@@ -35,7 +35,7 @@ msgid "Predefined"
 msgstr "Forhåndsdefinert "
 
 msgid "Size"
-msgstr ""
+msgstr "Størrelse"
 
 msgid "Data element group"
 msgstr "Dataelementgruppe"
@@ -173,10 +173,10 @@ msgid "Select year"
 msgstr "Velg år"
 
 msgid "Min people"
-msgstr "Min befolkning"
+msgstr "Min personer"
 
 msgid "Max people"
-msgstr "Maks befolkning"
+msgstr "Maks personer"
 
 msgid ""
 "Elevation above sea-level. You can adjust the min and max values so it "
@@ -306,22 +306,22 @@ msgid "Group set is required"
 msgstr "Gruppesett er påkrevd"
 
 msgid "event"
-msgstr ""
+msgstr "hendelse"
 
 msgid "tracked entity"
-msgstr ""
+msgstr "sporet enhet"
 
 msgid "facility"
-msgstr ""
+msgstr "bygning"
 
 msgid "thematic"
-msgstr ""
+msgstr "tematisk"
 
 msgid "boundary"
-msgstr ""
+msgstr "grense"
 
 msgid "Earth Engine"
-msgstr ""
+msgstr "Earth Engine"
 
 msgid "Edit {{name}} layer"
 msgstr "Rediger {{name}}-lag"
@@ -360,7 +360,7 @@ msgstr "ADVARSEL"
 msgid ""
 "Displaying tracked entity relationships in Maps is an experimental feature"
 msgstr ""
-"Visning av relasjoner mellom sporede enheter i Kart er en eksperimentell "
+"Visning av relasjoner mellom sporede enheter i Kart en eksperimentell "
 "funksjon"
 
 msgid "Display Tracked Entity relationships"
@@ -499,7 +499,7 @@ msgid "Interpretations"
 msgstr "Tolkninger"
 
 msgid "External basemap"
-msgstr ""
+msgstr "Eksternt bakgrunnskart"
 
 msgid "Basemap"
 msgstr "Bakgrunnskart"
@@ -650,7 +650,7 @@ msgid "Exit fullscreen"
 msgstr "Gå ut av fullskjerm"
 
 msgid "Finish measurement"
-msgstr ""
+msgstr "Fullfør måling"
 
 msgid "ha"
 msgstr "ha"
@@ -825,28 +825,28 @@ msgid "Variance"
 msgstr "Varians"
 
 msgid "OSM Light"
-msgstr ""
+msgstr "OSM tynn"
 
 msgid "OSM Detailed"
-msgstr ""
+msgstr "OSM Detaljert"
 
 msgid "Google Streets"
-msgstr ""
+msgstr "Google Streets"
 
 msgid "Google Hybrid"
-msgstr ""
+msgstr "Google Hybrid"
 
 msgid "Bing Road"
-msgstr ""
+msgstr "Bing Vei"
 
 msgid "Bing Dark"
-msgstr ""
+msgstr "Bing Mørk"
 
 msgid "Bing Aerial"
-msgstr ""
+msgstr "Bing Flyfoto"
 
 msgid "Bing Aerial Labels"
-msgstr ""
+msgstr "Bing Flyfoto Etiketter"
 
 msgid "Equal intervals"
 msgstr "Like intervaller"

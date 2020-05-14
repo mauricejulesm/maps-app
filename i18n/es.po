@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
 "POT-Creation-Date: 2020-05-12T20:48:33.602Z\n"
-"PO-Revision-Date: 2019-06-25 18:35+0000\n"
+"PO-Revision-Date: 2019-11-26 23:27+0000\n"
 "Last-Translator: Viktor Varland <viktor@dhis2.org>, 2020\n"
 "Language-Team: Spanish (https://www.transifex.com/hisp-uio/teams/100509/es/)\n"
 "MIME-Version: 1.0\n"
@@ -55,7 +55,7 @@ msgid "Details"
 msgstr "Detalles"
 
 msgid "Yes"
-msgstr "Si"
+msgstr "Sí"
 
 msgid "Event location"
 msgstr "Event location"
@@ -76,7 +76,7 @@ msgid "Style by data element"
 msgstr ""
 
 msgid "Data set"
-msgstr "Set de Datos"
+msgstr "Set de Datos\\:"
 
 msgid "Index"
 msgstr ""
@@ -804,16 +804,16 @@ msgid "Variance"
 msgstr "Varianza"
 
 msgid "OSM Light"
-msgstr ""
+msgstr "OSM Sencillo"
 
 msgid "OSM Detailed"
 msgstr ""
 
 msgid "Google Streets"
-msgstr ""
+msgstr "Google Calles"
 
 msgid "Google Hybrid"
-msgstr ""
+msgstr "Google Híbrido"
 
 msgid "Bing Road"
 msgstr ""
@@ -1129,7 +1129,7 @@ msgid "No coordinates found"
 msgstr ""
 
 msgid "Tracked entity"
-msgstr "Tracked entity"
+msgstr "Entidad de seguimiento"
 
 msgid "No tracked entities found"
 msgstr ""
