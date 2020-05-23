@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
 "POT-Creation-Date: 2020-05-12T20:48:33.602Z\n"
-"PO-Revision-Date: 2019-06-25 18:35+0000\n"
+"PO-Revision-Date: 2019-11-26 23:27+0000\n"
 "Last-Translator: Hamza Assada <7amza.it@gmail.com>, 2020\n"
 "Language-Team: Arabic (https://www.transifex.com/hisp-uio/teams/100509/ar/)\n"
 "MIME-Version: 1.0\n"
@@ -27,7 +27,7 @@ msgid "Classes"
 msgstr ""
 
 msgid "Legend set"
-msgstr "حزمة وسائل الإيضاح"
+msgstr "حزمة المفاتيح الإيضاحية"
 
 msgid "Automatic"
 msgstr "تلقائي"
@@ -84,7 +84,7 @@ msgid "Value"
 msgstr "القيمة"
 
 msgid "Legend"
-msgstr "شروحات"
+msgstr "مفاتيح إيضاحية"
 
 msgid "Range"
 msgstr "نطاق"
@@ -114,7 +114,7 @@ msgid "Dimension"
 msgstr "البُعد"
 
 msgid "Download"
-msgstr "تحميل"
+msgstr "تنزيل"
 
 msgid "Download map"
 msgstr "تنزيل الخريطة"
@@ -155,7 +155,7 @@ msgid "Labels"
 msgstr "التسميات"
 
 msgid "Point radius"
-msgstr "نصف قطر النقطة"
+msgstr "قطر النقطة"
 
 msgid "No organisation units are selected"
 msgstr ""
@@ -274,7 +274,7 @@ msgid "View all events"
 msgstr "عرض كافة الأحداث"
 
 msgid "Radius"
-msgstr "نصف القطر"
+msgstr "القطر"
 
 msgid "Buffer"
 msgstr ""
@@ -323,7 +323,7 @@ msgid "Earth Engine"
 msgstr ""
 
 msgid "Edit {{name}} layer"
-msgstr "تعديل طبقة {{name}}"
+msgstr "تعديل طبقة {{name}} جديدة"
 
 msgid "Add new {{name}} layer"
 msgstr "إضافة طبقة {{name}} جديدة"
@@ -370,7 +370,7 @@ msgid "Selected only"
 msgstr ""
 
 msgid "Selected and below"
-msgstr ""
+msgstr "المختارة وما أدناها"
 
 msgid "Selected and all below"
 msgstr ""
@@ -427,7 +427,7 @@ msgid "Indicator"
 msgstr "المؤشر"
 
 msgid "Reporting rates"
-msgstr "معدلات إعداد التقارير"
+msgstr "معدلات إرسال البلاغات"
 
 msgid "Event data items"
 msgstr "عناصر بيانات الحدث"
@@ -481,7 +481,7 @@ msgid "contains"
 msgstr ""
 
 msgid "is"
-msgstr "confirm_delete_relationship_type=هل تريد بالتأكيد حذف نوع العلاقة؟"
+msgstr ""
 
 msgid "is not"
 msgstr ""
@@ -502,7 +502,7 @@ msgid "Basemap"
 msgstr ""
 
 msgid "Collapse"
-msgstr "انهيار"
+msgstr "لملمة"
 
 msgid "Expand"
 msgstr "توسيع"
@@ -564,7 +564,7 @@ msgid "Download data"
 msgstr "تنزيل البيانات"
 
 msgid "Edit layer"
-msgstr "تحرير الطبقة"
+msgstr "تعديل الطبقة"
 
 msgid "Remove layer"
 msgstr ""
@@ -797,7 +797,7 @@ msgid "Tracked Entity Type"
 msgstr ""
 
 msgid "By data element"
-msgstr "حسب عنصر البيانات"
+msgstr "بواسطة عنصر البيانات"
 
 msgid "Count"
 msgstr "العدد"
@@ -821,7 +821,7 @@ msgid "OSM Detailed"
 msgstr ""
 
 msgid "Google Streets"
-msgstr ""
+msgstr "الشوارع بحسب غوغل"
 
 msgid "Google Hybrid"
 msgstr ""
@@ -959,7 +959,7 @@ msgid "Last six-month"
 msgstr "آخر ستة أشهر"
 
 msgid "Last 2 six-months"
-msgstr "آخر نصفي سنة"
+msgstr "آخر فترتي ستة أشهر (نصفي سنة)"
 
 msgid "This year"
 msgstr "السنة الحالية"
@@ -1125,7 +1125,7 @@ msgid "Event"
 msgstr "الحدث"
 
 msgid "No data found"
-msgstr "لم توجد بيانات"
+msgstr "لم يتم إيجاد بيانات"
 
 msgid "Facilities"
 msgstr ""
