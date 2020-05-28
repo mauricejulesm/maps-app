@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
-"POT-Creation-Date: 2020-05-12T20:48:33.602Z\n"
-"PO-Revision-Date: 2019-06-25 18:35+0000\n"
+"POT-Creation-Date: 2020-05-28T11:49:25.547Z\n"
+"PO-Revision-Date: 2019-11-26 23:27+0000\n"
 "Last-Translator: Viktor Varland <viktor@dhis2.org>, 2020\n"
 "Language-Team: Urdu (https://www.transifex.com/hisp-uio/teams/100509/ur/)\n"
 "MIME-Version: 1.0\n"
@@ -53,7 +53,7 @@ msgid "Details"
 msgstr "تفصیلات"
 
 msgid "Yes"
-msgstr "ہاں"
+msgstr "Ø¬Û ÛØ§Úº"
 
 msgid "Event location"
 msgstr "واقعہ کا مقام"
@@ -77,6 +77,9 @@ msgid "Data set"
 msgstr "ڈیٹا سیٹ"
 
 msgid "Index"
+msgstr ""
+
+msgid "Name"
 msgstr ""
 
 msgid "Value"
@@ -147,7 +150,7 @@ msgid "Organisation units"
 msgstr "تنظیمی یونٹس"
 
 msgid "Style"
-msgstr "سٹائل"
+msgstr "Ø§ÙØ¯Ø§Ø²"
 
 msgid "Labels"
 msgstr "لیبل"
@@ -244,12 +247,6 @@ msgstr ""
 
 msgid "Filter"
 msgstr "فلٹر"
-
-msgid "Start date"
-msgstr "تاریخ آغاز"
-
-msgid "End date"
-msgstr "آخری تاریخ"
 
 msgid "Events"
 msgstr "تقریبات"
@@ -529,6 +526,9 @@ msgstr ""
 msgid "Filters"
 msgstr "فلٹرز"
 
+msgid "Source"
+msgstr ""
+
 msgid "Edit"
 msgstr "ترمیم"
 
@@ -767,6 +767,12 @@ msgstr ""
 
 msgid "Remove other layers to enable split map views."
 msgstr ""
+
+msgid "Start date"
+msgstr "تاریخ آغاز"
+
+msgid "End date"
+msgstr "آخری تاریخ"
 
 msgid "Program indicator"
 msgstr "پروگرام کا اشارہ"
@@ -1151,7 +1157,7 @@ msgid "false"
 msgstr ""
 
 msgid "No"
-msgstr "نہیں"
+msgstr "ÙÛÛÚº"
 
 msgid "Map could not be created"
 msgstr ""

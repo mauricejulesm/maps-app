@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
-"POT-Creation-Date: 2020-05-12T20:48:33.602Z\n"
-"PO-Revision-Date: 2019-06-25 18:35+0000\n"
+"POT-Creation-Date: 2020-05-28T11:49:25.547Z\n"
+"PO-Revision-Date: 2019-11-26 23:27+0000\n"
 "Last-Translator: Viktor Varland <viktor@dhis2.org>, 2020\n"
 "Language-Team: Lao (https://www.transifex.com/hisp-uio/teams/100509/lo/)\n"
 "MIME-Version: 1.0\n"
@@ -74,9 +74,12 @@ msgid "Style by data element"
 msgstr ""
 
 msgid "Data set"
-msgstr "ແບບຟອມ"
+msgstr "Data set\\:"
 
 msgid "Index"
+msgstr ""
+
+msgid "Name"
 msgstr ""
 
 msgid "Value"
@@ -141,13 +144,13 @@ msgid "Year"
 msgstr "ປີ"
 
 msgid "Period"
-msgstr "ໄລຍະ ເວລາ"
+msgstr "ຊ່ວງເວລາ"
 
 msgid "Organisation units"
 msgstr "ໂຄງຮ່າງການຈັດຕັ້ງ"
 
 msgid "Style"
-msgstr "ແບບ"
+msgstr "ລັກສະນະ"
 
 msgid "Labels"
 msgstr ""
@@ -244,12 +247,6 @@ msgstr "​ຫົວ​ໜ່ວຍ​ການ​ຈັດ​ຕັ້ງ"
 
 msgid "Filter"
 msgstr "Filter"
-
-msgid "Start date"
-msgstr "ວັນທີເລີ່ມຕົ້ນ"
-
-msgid "End date"
-msgstr "ວັນທີສຸດທ້າຍ"
 
 msgid "Events"
 msgstr "ເຫດການ"
@@ -456,7 +453,7 @@ msgid "Filtering is available after selecting a program stage."
 msgstr ""
 
 msgid "Operator"
-msgstr "Operator"
+msgstr "ເຄື່ອງໝາຍເລກ"
 
 msgid "Date"
 msgstr "ວັນທີ່"
@@ -528,6 +525,9 @@ msgstr ""
 
 msgid "Filters"
 msgstr "ກັ່ນຕອງ"
+
+msgid "Source"
+msgstr ""
 
 msgid "Edit"
 msgstr "ແກ້ໄຂ"
@@ -767,6 +767,12 @@ msgstr ""
 
 msgid "Remove other layers to enable split map views."
 msgstr ""
+
+msgid "Start date"
+msgstr "ວັນທີເລີ່ມຕົ້ນ"
+
+msgid "End date"
+msgstr "ວັນທີສຸດທ້າຍ"
 
 msgid "Program indicator"
 msgstr "Program Indicator Management"
@@ -1112,7 +1118,7 @@ msgid "Event"
 msgstr "ເຫດການ"
 
 msgid "No data found"
-msgstr "No data found"
+msgstr "ບໍ່ພົບຂໍ້ມູນ"
 
 msgid "Facilities"
 msgstr ""
