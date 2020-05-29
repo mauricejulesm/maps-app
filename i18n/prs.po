@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
 "POT-Creation-Date: 2020-05-28T11:49:25.547Z\n"
-"PO-Revision-Date: 2019-06-25 18:35+0000\n"
+"PO-Revision-Date: 2019-11-26 23:27+0000\n"
 "Last-Translator: phil_dhis2, 2020\n"
 "Language-Team: Persian (Afghanistan) (https://www.transifex.com/hisp-uio/teams/100509/fa_AF/)\n"
 "MIME-Version: 1.0\n"
@@ -52,7 +52,7 @@ msgid "Details"
 msgstr "جزئیات"
 
 msgid "Yes"
-msgstr "بله"
+msgstr "بلی"
 
 msgid "Event location"
 msgstr "د پېښې طبقه"
@@ -79,7 +79,7 @@ msgid "Index"
 msgstr ""
 
 msgid "Name"
-msgstr ""
+msgstr "نام"
 
 msgid "Value"
 msgstr "مقدار"
@@ -131,7 +131,7 @@ msgid ""
 msgstr ""
 
 msgid "Cancel"
-msgstr "لغو کردن"
+msgstr "انصراف"
 
 msgid "Close"
 msgstr "بستن"
@@ -230,7 +230,7 @@ msgid "Legend preview"
 msgstr ""
 
 msgid "This field is required"
-msgstr "اسم هذا از قبل ثبت و راجستر شده است"
+msgstr "این بخش لازمی میباشد"
 
 msgid "Valid range is"
 msgstr ""
@@ -526,10 +526,10 @@ msgid "Filters"
 msgstr "فیلټرونه"
 
 msgid "Source"
-msgstr ""
+msgstr "منبع"
 
 msgid "Edit"
-msgstr "ویرایش"
+msgstr "تجدید"
 
 msgid "Toggle visibility"
 msgstr ""
@@ -580,7 +580,7 @@ msgid "Not set"
 msgstr "تعین نه گردیده است"
 
 msgid "Organisation unit"
-msgstr "بخش نهاد/سازمان"
+msgstr "واحد سازمان"
 
 msgid "Event time"
 msgstr "د پېښې طبقه"
@@ -774,7 +774,7 @@ msgid "End date"
 msgstr "تاریخ اتمام"
 
 msgid "Program indicator"
-msgstr "شاخص پروگرام"
+msgstr "ایجاد پروگرام شاخص"
 
 msgid "No program"
 msgstr "هیچ پروگرام نیست"

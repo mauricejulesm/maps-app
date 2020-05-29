@@ -1,14 +1,14 @@
 # 
 # Translators:
-# Caroline Hesthagen Holen <caroline@devotta.no>, 2020
 # Karoline Tufte Lien <karoline@dhis2.org>, 2020
+# Caroline Hesthagen Holen <caroline@devotta.no>, 2020
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
 "POT-Creation-Date: 2020-05-28T11:49:25.547Z\n"
-"PO-Revision-Date: 2019-06-25 18:35+0000\n"
-"Last-Translator: Karoline Tufte Lien <karoline@dhis2.org>, 2020\n"
+"PO-Revision-Date: 2019-11-26 23:27+0000\n"
+"Last-Translator: Caroline Hesthagen Holen <caroline@devotta.no>, 2020\n"
 "Language-Team: Norwegian Bokmål (https://www.transifex.com/hisp-uio/teams/100509/nb/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -80,7 +80,7 @@ msgid "Index"
 msgstr "Indeks"
 
 msgid "Name"
-msgstr ""
+msgstr "Navn"
 
 msgid "Value"
 msgstr "Verdi"
@@ -176,10 +176,10 @@ msgid "Select year"
 msgstr "Velg år"
 
 msgid "Min people"
-msgstr "Min befolkning"
+msgstr "Min personer"
 
 msgid "Max people"
-msgstr "Maks befolkning"
+msgstr "Maks personer"
 
 msgid ""
 "Elevation above sea-level. You can adjust the min and max values so it "
@@ -357,7 +357,7 @@ msgstr "ADVARSEL"
 msgid ""
 "Displaying tracked entity relationships in Maps is an experimental feature"
 msgstr ""
-"Visning av relasjoner mellom sporede enheter i Kart er en eksperimentell "
+"Visning av relasjoner mellom sporede enheter i Kart en eksperimentell "
 "funksjon"
 
 msgid "Display Tracked Entity relationships"
@@ -545,7 +545,7 @@ msgid "Filters"
 msgstr "Filter"
 
 msgid "Source"
-msgstr ""
+msgstr "Kilde"
 
 msgid "Edit"
 msgstr "Rediger"
