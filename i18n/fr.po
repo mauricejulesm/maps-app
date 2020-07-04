@@ -1,7 +1,7 @@
 # 
 # Translators:
-# Austin McGee <austin@dhis2.org>, 2019
 # Matthieu Pinard <matthieu@pinard.no>, 2019
+# Austin McGee <austin@dhis2.org>, 2019
 # Karoline Tufte Lien <karoline@dhis2.org>, 2020
 # Viktor Varland <viktor@dhis2.org>, 2020
 # Bram Piot <bram.piot@gmail.com>, 2020
@@ -11,8 +11,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
-"POT-Creation-Date: 2020-05-28T11:49:25.547Z\n"
-"PO-Revision-Date: 2019-06-25 18:35+0000\n"
+"POT-Creation-Date: 2020-07-03T14:17:28.421Z\n"
+"PO-Revision-Date: 2019-11-26 23:27+0000\n"
 "Last-Translator: Gabriela Rodriguez <grodriguezcoronado@gmail.com>, 2020\n"
 "Language-Team: French (https://www.transifex.com/hisp-uio/teams/100509/fr/)\n"
 "MIME-Version: 1.0\n"
@@ -52,10 +52,10 @@ msgid "Data element"
 msgstr "Élément de données"
 
 msgid "Totals"
-msgstr "Totaux "
+msgstr "Totaux"
 
 msgid "Details"
-msgstr "Détails"
+msgstr "Details"
 
 msgid "Yes"
 msgstr "Oui"
@@ -84,8 +84,17 @@ msgstr "Ensemble de données"
 msgid "Index"
 msgstr "Index"
 
+msgid "Id"
+msgstr ""
+
+msgid "Org unit"
+msgstr ""
+
 msgid "Name"
 msgstr "Nom"
+
+msgid "Event time"
+msgstr "Date de l'évènement"
 
 msgid "Value"
 msgstr "Valeur"
@@ -102,14 +111,14 @@ msgstr "Niveau"
 msgid "Parent"
 msgstr "Parent"
 
-msgid "Id"
-msgstr ""
-
 msgid "Type"
 msgstr "Type"
 
 msgid "Color"
 msgstr "Couleur"
+
+msgid "Data table is not supported when events are grouped on the server."
+msgstr ""
 
 msgid "Add filter"
 msgstr "Ajouter le filtre"
@@ -330,7 +339,7 @@ msgid "Select period when tracked entities were last updated"
 msgstr ""
 
 msgid "relationships"
-msgstr "Relation"
+msgstr "Relations"
 
 msgid "Program status"
 msgstr ""
@@ -365,7 +374,7 @@ msgid "Selected and all below"
 msgstr ""
 
 msgid "Tracked entities"
-msgstr "Entités suiviées "
+msgstr "Entités suivies "
 
 msgid "Tracked entity style"
 msgstr ""
@@ -589,9 +598,6 @@ msgstr "Non défini"
 msgid "Organisation unit"
 msgstr "Unité d'organisation"
 
-msgid "Event time"
-msgstr "Date de l'évènement"
-
 msgid "Groups"
 msgstr "Groupes"
 
@@ -709,7 +715,7 @@ msgid "Click the map where you want to relocate facility"
 msgstr ""
 
 msgid "user organisation unit"
-msgstr "unités d'organisation de l'utilisateur"
+msgstr "Unités d'organisation de l'utilisateur"
 
 msgid "right below user organisation unit"
 msgstr ""

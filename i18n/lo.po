@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
-"POT-Creation-Date: 2020-05-28T11:49:25.547Z\n"
-"PO-Revision-Date: 2019-06-25 18:35+0000\n"
+"POT-Creation-Date: 2020-07-03T14:17:28.421Z\n"
+"PO-Revision-Date: 2019-11-26 23:27+0000\n"
 "Last-Translator: Viktor Varland <viktor@dhis2.org>, 2020\n"
 "Language-Team: Lao (https://www.transifex.com/hisp-uio/teams/100509/lo/)\n"
 "MIME-Version: 1.0\n"
@@ -74,13 +74,22 @@ msgid "Style by data element"
 msgstr ""
 
 msgid "Data set"
-msgstr "ແບບຟອມ"
+msgstr "Data set\\:"
 
 msgid "Index"
 msgstr ""
 
+msgid "Id"
+msgstr "Id"
+
+msgid "Org unit"
+msgstr ""
+
 msgid "Name"
 msgstr "ຊື່"
+
+msgid "Event time"
+msgstr ""
 
 msgid "Value"
 msgstr "Value"
@@ -97,13 +106,13 @@ msgstr "ຂັ້ນ"
 msgid "Parent"
 msgstr ""
 
-msgid "Id"
-msgstr "Id"
-
 msgid "Type"
 msgstr "Type"
 
 msgid "Color"
+msgstr ""
+
+msgid "Data table is not supported when events are grouped on the server."
 msgstr ""
 
 msgid "Add filter"
@@ -144,13 +153,13 @@ msgid "Year"
 msgstr "ປີ"
 
 msgid "Period"
-msgstr "ໄລຍະ ເວລາ"
+msgstr "ຊ່ວງເວລາ"
 
 msgid "Organisation units"
 msgstr "ໂຄງຮ່າງການຈັດຕັ້ງ"
 
 msgid "Style"
-msgstr "ແບບ"
+msgstr "ລັກສະນະ"
 
 msgid "Labels"
 msgstr ""
@@ -453,7 +462,7 @@ msgid "Filtering is available after selecting a program stage."
 msgstr ""
 
 msgid "Operator"
-msgstr "Operator"
+msgstr "ເຄື່ອງໝາຍເລກ"
 
 msgid "Date"
 msgstr "ວັນທີ່"
@@ -582,9 +591,6 @@ msgstr "Not set"
 
 msgid "Organisation unit"
 msgstr "​ຫົວ​ໜ່ວຍ​ການ​ຈັດ​ຕັ້ງ"
-
-msgid "Event time"
-msgstr ""
 
 msgid "Groups"
 msgstr "ກຸ່ມ"
@@ -1118,7 +1124,7 @@ msgid "Event"
 msgstr "ເຫດການ"
 
 msgid "No data found"
-msgstr "No data found"
+msgstr "ບໍ່ພົບຂໍ້ມູນ"
 
 msgid "Facilities"
 msgstr ""

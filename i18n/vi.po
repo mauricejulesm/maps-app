@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
-"POT-Creation-Date: 2020-05-28T11:49:25.547Z\n"
-"PO-Revision-Date: 2019-06-25 18:35+0000\n"
+"POT-Creation-Date: 2020-07-03T14:17:28.421Z\n"
+"PO-Revision-Date: 2019-11-26 23:27+0000\n"
 "Last-Translator: Viktor Varland <viktor@dhis2.org>, 2020\n"
 "Language-Team: Vietnamese (https://www.transifex.com/hisp-uio/teams/100509/vi/)\n"
 "MIME-Version: 1.0\n"
@@ -45,7 +45,7 @@ msgid "Data element operand"
 msgstr ""
 
 msgid "Data element"
-msgstr "Phần Tử Dữ Liệu"
+msgstr "Phần tử dữ liệu"
 
 msgid "Totals"
 msgstr "Tổng"
@@ -80,8 +80,17 @@ msgstr "Tập dữ liệu"
 msgid "Index"
 msgstr ""
 
+msgid "Id"
+msgstr "Ký hiệu nhận dạng (ID)"
+
+msgid "Org unit"
+msgstr ""
+
 msgid "Name"
 msgstr "Tên"
+
+msgid "Event time"
+msgstr "Thời điểm sự kiện"
 
 msgid "Value"
 msgstr "Giá trị"
@@ -98,14 +107,14 @@ msgstr "Cấp"
 msgid "Parent"
 msgstr ""
 
-msgid "Id"
-msgstr "Ký hiệu nhận dạng (ID)"
-
 msgid "Type"
-msgstr "Type"
+msgstr "Loại"
 
 msgid "Color"
 msgstr "Màu"
+
+msgid "Data table is not supported when events are grouped on the server."
+msgstr ""
 
 msgid "Add filter"
 msgstr "Bộ lọc"
@@ -136,7 +145,7 @@ msgid "Cancel"
 msgstr "Hủy"
 
 msgid "Close"
-msgstr "Đóng"
+msgstr "Đóng lại"
 
 msgid "Legend position"
 msgstr ""
@@ -145,7 +154,7 @@ msgid "Year"
 msgstr "Năm"
 
 msgid "Period"
-msgstr "Thời gian"
+msgstr "Thời điểm"
 
 msgid "Organisation units"
 msgstr "Đơn vị"
@@ -247,7 +256,7 @@ msgid "Org units"
 msgstr "Các đơn vị"
 
 msgid "Filter"
-msgstr "Bộ lọc"
+msgstr "Lọc"
 
 msgid "Events"
 msgstr "Sự kiện"
@@ -531,7 +540,7 @@ msgid "Source"
 msgstr "Nguồn"
 
 msgid "Edit"
-msgstr "Sửa"
+msgstr "Chỉnh sửa"
 
 msgid "Toggle visibility"
 msgstr ""
@@ -583,9 +592,6 @@ msgstr "Không cài"
 
 msgid "Organisation unit"
 msgstr "Đơn vị"
-
-msgid "Event time"
-msgstr "Thời điểm sự kiện"
 
 msgid "Groups"
 msgstr "Các nhóm"

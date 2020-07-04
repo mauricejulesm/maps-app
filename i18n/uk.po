@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
-"POT-Creation-Date: 2020-05-28T11:49:25.547Z\n"
-"PO-Revision-Date: 2019-06-25 18:35+0000\n"
+"POT-Creation-Date: 2020-07-03T14:17:28.421Z\n"
+"PO-Revision-Date: 2019-11-26 23:27+0000\n"
 "Last-Translator: phil_dhis2, 2020\n"
 "Language-Team: Ukrainian (https://www.transifex.com/hisp-uio/teams/100509/uk/)\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
 
 msgid "Maps"
-msgstr "Maps"
+msgstr "Мапи"
 
 msgid "Classification"
 msgstr ""
@@ -79,8 +79,17 @@ msgstr "Набір даних"
 msgid "Index"
 msgstr ""
 
+msgid "Id"
+msgstr ""
+
+msgid "Org unit"
+msgstr ""
+
 msgid "Name"
 msgstr "Ім'я"
+
+msgid "Event time"
+msgstr ""
 
 msgid "Value"
 msgstr "Значення"
@@ -97,13 +106,13 @@ msgstr ""
 msgid "Parent"
 msgstr ""
 
-msgid "Id"
-msgstr ""
-
 msgid "Type"
 msgstr "Тип"
 
 msgid "Color"
+msgstr ""
+
+msgid "Data table is not supported when events are grouped on the server."
 msgstr ""
 
 msgid "Add filter"
@@ -583,9 +592,6 @@ msgstr "Не встановлено"
 msgid "Organisation unit"
 msgstr "Організаційний підрозділ"
 
-msgid "Event time"
-msgstr ""
-
 msgid "Groups"
 msgstr ""
 
@@ -781,7 +787,7 @@ msgid "No program"
 msgstr ""
 
 msgid "Program"
-msgstr "Program"
+msgstr "Програма"
 
 msgid "Stage"
 msgstr ""
