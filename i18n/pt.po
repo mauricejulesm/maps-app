@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
 "POT-Creation-Date: 2020-07-03T14:17:28.421Z\n"
-"PO-Revision-Date: 2019-06-25 18:35+0000\n"
+"PO-Revision-Date: 2019-11-26 23:27+0000\n"
 "Last-Translator: Ge Joao <gsimango@saudigitus.org>, 2020\n"
 "Language-Team: Portuguese (https://www.transifex.com/hisp-uio/teams/100509/pt/)\n"
 "MIME-Version: 1.0\n"
@@ -190,7 +190,7 @@ msgid "Select year"
 msgstr "Selecionar ano"
 
 msgid "Min people"
-msgstr "Minumo da população "
+msgstr "Min da população "
 
 msgid "Max people"
 msgstr "Max da população "
@@ -218,7 +218,7 @@ msgstr ""
 "mensalmente, durante a 3ª semana do mês seguinte."
 
 msgid "Min mm"
-msgstr "Milimentros minimos "
+msgstr "Milímetros mínimos "
 
 msgid "Max mm"
 msgstr "Milímetros máximos "
@@ -393,10 +393,10 @@ msgid "Selected only"
 msgstr "Apenas selecionados"
 
 msgid "Selected and below"
-msgstr "Selecionado e abaixo"
+msgstr "Selecione a baixo"
 
 msgid "Selected and all below"
-msgstr "Selecionado e tudo abaixo"
+msgstr "Selecione  tudo abaixo"
 
 msgid "Tracked entities"
 msgstr "Entidades rastreadas"
@@ -682,7 +682,7 @@ msgid "km"
 msgstr "km"
 
 msgid "Measure distances and areas"
-msgstr "Meça distâncias e áreas"
+msgstr "Medir  distâncias e  áreas"
 
 msgid "mi"
 msgstr "mi"
@@ -1153,19 +1153,19 @@ msgid "Barren or sparsely vegetated"
 msgstr ""
 
 msgid "Unclassified"
-msgstr ""
+msgstr "Não classificadas "
 
 msgid "Access denied"
 msgstr "Acesso Negado"
 
 msgid "user is not allowed to read layer data"
-msgstr ""
+msgstr "o usuário não tem permissão para ler dados da camada"
 
 msgid "Failed"
 msgstr "Falhou"
 
 msgid "an unknown error occurred while reading layer data"
-msgstr ""
+msgstr "Ocorreu um erro desconhecido ao ler os dados da camada"
 
 msgid "Event"
 msgstr "Evento"
@@ -1174,52 +1174,52 @@ msgid "No data found"
 msgstr "Dado não encontrado"
 
 msgid "Facilities"
-msgstr ""
+msgstr "Instalações"
 
 msgid "Thematic layer"
 msgstr "Camada temática"
 
 msgid "Selected org units"
-msgstr ""
+msgstr "Selecionar unidades organizacionais "
 
 msgid "No coordinates found"
-msgstr ""
+msgstr "Nenhuma coordenada encontrada"
 
 msgid "Tracked entity"
 msgstr "Entidade Rastreada"
 
 msgid "No tracked entities found"
-msgstr ""
+msgstr "Nenhuma entidade rastreada encontrada"
 
 msgid "related"
-msgstr ""
+msgstr "Relacionado "
 
 msgid "Thematic"
-msgstr ""
+msgstr "Temático"
 
 msgid "not one of"
-msgstr ""
+msgstr "não um dos"
 
 msgid "doesn't contains"
-msgstr ""
+msgstr "não contém"
 
 msgid "true"
-msgstr ""
+msgstr "Verdadeiro"
 
 msgid "false"
-msgstr ""
+msgstr "Falso "
 
 msgid "No"
 msgstr "Não"
 
 msgid "Map could not be created"
-msgstr ""
+msgstr "Não foi possível criar o mapa"
 
 msgid "Start date is invalid"
-msgstr ""
+msgstr "A data de início é inválida"
 
 msgid "End date is invalid"
-msgstr ""
+msgstr "A data de término é inválida"
 
 msgid "End date cannot be earlier than start date"
-msgstr ""
+msgstr "A data de término não pode ser anterior à data de início"
