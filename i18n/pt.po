@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: i18next-conv\n"
 "POT-Creation-Date: 2020-07-03T14:17:28.421Z\n"
-"PO-Revision-Date: 2019-06-25 18:35+0000\n"
+"PO-Revision-Date: 2019-11-26 23:27+0000\n"
 "Last-Translator: Ge Joao <gsimango@saudigitus.org>, 2020\n"
 "Language-Team: Portuguese (https://www.transifex.com/hisp-uio/teams/100509/pt/)\n"
 "MIME-Version: 1.0\n"
@@ -190,7 +190,7 @@ msgid "Select year"
 msgstr "Selecionar ano"
 
 msgid "Min people"
-msgstr "Minumo da população "
+msgstr "Min da população "
 
 msgid "Max people"
 msgstr "Max da população "
@@ -218,7 +218,7 @@ msgstr ""
 "mensalmente, durante a 3ª semana do mês seguinte."
 
 msgid "Min mm"
-msgstr "Milimentros minimos "
+msgstr "Milímetros mínimos "
 
 msgid "Max mm"
 msgstr "Milímetros máximos "
@@ -393,10 +393,10 @@ msgid "Selected only"
 msgstr "Apenas selecionados"
 
 msgid "Selected and below"
-msgstr "Selecionado e abaixo"
+msgstr "Selecione a baixo"
 
 msgid "Selected and all below"
-msgstr "Selecionado e tudo abaixo"
+msgstr "Selecione  tudo abaixo"
 
 msgid "Tracked entities"
 msgstr "Entidades rastreadas"
@@ -682,7 +682,7 @@ msgid "km"
 msgstr "km"
 
 msgid "Measure distances and areas"
-msgstr "Meça distâncias e áreas"
+msgstr "Medir  distâncias e  áreas"
 
 msgid "mi"
 msgstr "mi"
